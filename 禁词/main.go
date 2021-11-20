@@ -2,7 +2,7 @@ package BanWord
 
 import (
 	"OPQBot-QQGroupManager/Config"
-	"OPQBot-QQGroupManager/Core"
+	"OPQBot-QQGroupManager/ggzdjdjdCore"
 	"github.com/mcoo/OPQBot"
 	"log"
 	"regexp"
